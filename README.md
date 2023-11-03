@@ -4,13 +4,11 @@
 
 - Listar Todos os Pensadores (GET)
 
-```
+``` markdown
 /pensadores/
 ```
 
-``` js
-// RETORNA
-
+``` json
 {
     "quantidade": 10,
     "pensadores": [
@@ -23,10 +21,7 @@
             "nome": "Platão",
             "periodo": "(427-347 a.C.)",
             "sobre": "Nascido em Atenas, no berço de uma família nobre, pouca gente sabe, mas o verdadeiro nome de Platão era Arístocles - Platão era um apelido que em grego queria dizer \"ombros largos\"."
-        },
-        // ...
-        // ...
-        // ...
+        }
     ]
 }
 ```
