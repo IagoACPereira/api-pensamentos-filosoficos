@@ -1,4 +1,4 @@
-# API com os pensamentos dos maiores filósofos da histório
+# API com os pensamentos dos maiores filósofos da história
 
 ## Pensadores
 
