@@ -1,0 +1,52 @@
+[
+  {
+    "nome": "Aristóteles",
+    "periodo": "(384-322 a.C.)",
+    "sobre": "Discípulo de Platão, foi capaz de refletir sobre uma vasta gama de temas que vão desde a geometria passando pela ética, pela poesia até chegar à medicina. Aos 17 anos, Aristóteles se inscreveu na Academia do mestre, em Atenas, e rapidamente virou seu pupilo."
+  },
+  {
+    "nome": "Platão",
+    "periodo": "(427-347 a.C.)",
+    "sobre": "Nascido em Atenas, no berço de uma família nobre, pouca gente sabe, mas o verdadeiro nome de Platão era Arístocles - Platão era um apelido que em grego queria dizer \"ombros largos\"."
+  },
+  {
+    "nome": "Nietzsche",
+    "periodo": "(1844-1900)",
+    "sobre": "Seu primeiro interesse de estudo foi a Bíblia, paixão que havia herdado do pai, e assim passou parte da vida estudando religião antes de alargar os seus horizontes."
+  },
+  {
+    "nome": "Wittgenstein",
+    "periodo": "(1889-1951)",
+    "sobre": "Nascido em Viena, Wittgenstein começou a estudar engenharia aeronáutica, no entanto, rapidamente migrou para o estudo da lógica pura e dura (corajoso o rapaz)."
+  },
+  {
+    "nome": "Descartes",
+    "periodo": "(1596 - 1650)",
+    "sobre": "Esse senhor francês que passeou por entre diversos campos do conhecimento foi físico, matemático e filósofo. Tido como o criador do pensamento cartesiano, as suas reflexões serviram de base para o que conhecemos como a Filosofia Moderna."
+  },
+  {
+    "nome": "Hegel",
+    "periodo": "(1770-1831)",
+    "sobre": "O alemão Georg Wilhelm Friedrich Hegel era um sujeito avant-garde, mas tão avant-garde, que foi precursor do existencialismo e do marxismo."
+  },
+  {
+    "nome": "Kant",
+    "periodo": "(1724-1804)",
+    "sobre": "Nascido na Prússia, no berço de uma família luterana religiosa, Kant entrou para o curso de Teologia, onde teve contato mais próximo com a Filosofia."
+  },
+  {
+    "nome": "Sócrates",
+    "periodo": "(470-399 a.C.)",
+    "sobre": "Se Aristóteles e Platão mudaram o rumo da filosofia ocidental foi graças à esse sujeito aqui de cima: Sócrates!"
+  },
+  {
+    "nome": "Confúcio",
+    "periodo": "(551-479 a.C.)",
+    "sobre": "O primeiro chinês dessa lista não poderia deixar de ser mencionado por ter sido fundamental na constituição da cultura asiática."
+  },
+  {
+    "nome": "Montesquieu",
+    "periodo": "(1689-1755)",
+    "sobre": "Hoje parece muito natural termos três poderes divididos: o Executivo, o Legislativo e o Judiciário. Mas a verdade é que essa foi uma das contribuições sociais de Montesquieu, considerado o precursor da Sociologia Francesa."
+  }
+]
