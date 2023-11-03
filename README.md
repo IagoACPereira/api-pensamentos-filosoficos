@@ -4,9 +4,11 @@
 
 - Listar Todos os Pensadores (GET)
 
-`/pensadores/`
+```
+/pensadores/
+```
 
-``` json
+``` js
 // RETORNA
 
 {
@@ -22,9 +24,9 @@
             "periodo": "(427-347 a.C.)",
             "sobre": "Nascido em Atenas, no berço de uma família nobre, pouca gente sabe, mas o verdadeiro nome de Platão era Arístocles - Platão era um apelido que em grego queria dizer \"ombros largos\"."
         },
-        ...
-        ...
-        ...
+        // ...
+        // ...
+        // ...
     ]
 }
 ```
