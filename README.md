@@ -22,7 +22,8 @@
             "periodo": "(427-347 a.C.)",
             "sobre": "Nascido em Atenas, no berço de uma família nobre, pouca gente sabe, mas o verdadeiro nome de Platão era Arístocles - Platão era um apelido que em grego queria dizer \"ombros largos\"."
         }
-    ]
+    ],
+    "status": 200
 }
 ```
 
@@ -33,8 +34,6 @@
 ```
 
 ``` json
-// RETORNA
-
 {
     "filosofo": {
         "nome": "Platão",
@@ -53,7 +52,8 @@
             "A punição que os bons sofrem, quando se recusam a agir, é viver sob o governo dos maus."
         ],
         "quantidade": 10
-    }
+    },
+    "status": 200
 }
 ```
 
@@ -66,8 +66,6 @@
 ```
 
 ``` json
-// RETORNA
-
 {
     "quantidade": 20,
     "pensamentos": [
@@ -82,11 +80,9 @@
         {
             "pensamento": "O sábio nunca diz tudo o que pensa, mas pensa sempre tudo o que diz.",
             "filosofo": "Aristóteles"
-        },
-        ...
-        ...
-        ...
-    ]
+        }
+    ],
+    "status": 200
 }
 ```
 
@@ -97,11 +93,10 @@
 ```
 
 ``` json
-// RETORNA
-
 {
     "pensamento": "É a esta força que mantém sempre a opinião justa e legítima sobre o que é necessário temer e não temer, que chamo e defino coragem.",
-    "filosofo": "Platão"
+    "filosofo": "Platão",
+    "status": 200
 }
 ```
 
@@ -112,8 +107,6 @@
 ```
 
 ``` json
-// RETORNA
-
 {
     "filosofo": "Aristóteles",
     "pensamentos": [
