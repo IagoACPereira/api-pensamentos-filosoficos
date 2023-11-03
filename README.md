@@ -4,9 +4,9 @@
 
 - Listar Todos os Pensadores (GET)
 
-/pensadores/
+`/pensadores/`
 
-```
+``` json
 // RETORNA
 
 {
