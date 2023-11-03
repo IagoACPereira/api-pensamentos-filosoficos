@@ -2,9 +2,9 @@
 
 ## Pensadores
 
-- Listar Todos os Pensadores (GET)
+- **Listar Todos os Pensadores (GET)**
 
-``` markdown
+```
 /pensadores/
 ```
 
@@ -26,11 +26,14 @@
 }
 ```
 
-- Listar Um Pensador (GET)
+- **Listar Um Pensador (GET)**
 
+```
 /pensadores/:id
+```
 
-`// RETORNA
+``` json
+// RETORNA
 
 {
     "filosofo": {
@@ -51,15 +54,19 @@
         ],
         "quantidade": 10
     }
-}`
+}
+```
 
 ## Pensamentos
 
-- Listar Todos os Pensamentos (GET)
+- **Listar Todos os Pensamentos (GET)**
 
+```
 /pensamentos/
+```
 
-`// RETORNA
+``` json
+// RETORNA
 
 {
     "quantidade": 20,
@@ -80,24 +87,32 @@
         ...
         ...
     ]
-}`
+}
+```
 
-- Listar Um Pensamento (GET)
+- **Listar Um Pensamento (GET)**
 
+```
 /pensamentos/:id
+```
 
-`// RETORNA
+``` json
+// RETORNA
 
 {
     "pensamento": "É a esta força que mantém sempre a opinião justa e legítima sobre o que é necessário temer e não temer, que chamo e defino coragem.",
     "filosofo": "Platão"
-}`
+}
+```
 
-- Listar Pensamentos por Nome do Pensador
+- **Listar Pensamentos por Nome do Pensador (GET)**
 
+```
 /pensamentos/pensador/:nomePensador
+```
 
-`// RETORNA
+``` json
+// RETORNA
 
 {
     "filosofo": "Aristóteles",
@@ -116,5 +131,4 @@
     "quantidade": 10,
     "status": 200
 }
-
-`
+```
