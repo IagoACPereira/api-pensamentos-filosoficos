@@ -6,7 +6,7 @@
 
 /pensadores/
 
-``// RETORNA
+<// RETORNA
 
 {
     "quantidade": 10,
@@ -25,7 +25,7 @@
         ...
         ...
     ]
-}``
+}>
 
 - Listar Um Pensador (GET)
 
